@@ -12,7 +12,7 @@ function add(): number {
 }
 
 // 위 2개 조합
-function getSum(a: number, b: number): number {
+function getSum(a: number, b: number, c?, d?): number {
     return a + b;
 }
 
